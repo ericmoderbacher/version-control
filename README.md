@@ -16,9 +16,9 @@ an electronic album
 
 ### Shared notes
 
-### favorite things
+### favorite things (not a cover)
 
-### pretty things
+### pretty things (a cover)
 
 ### if(can exist)continue;
 

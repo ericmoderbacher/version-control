@@ -1,18 +1,28 @@
 # version-control
 an electronic album
 
-#Tracks
-## Hello to you too!
+# listen instructions
+Clone the repo (--recursive sets up the submodules)
+run cmake followed by make to build
+run ctest to make sure I didnt fuck anything up (this will also make the options file)
+(optional) edit the options file
+run the executible
+play the outputted tracks in a media player of your choosing
 
-## Sorry, corporations try to own us also
+# Tracks
+### Hello to you too!
 
-## Shared notes
+### Sorry, corporations try to own us also
 
-## favorite things
+### Shared notes
 
-## pretty things
+### favorite things
 
-## if(can exist)continue;
+### pretty things
 
-## selectAgainstSuffering(); //ah fuck
+### if(can exist)continue;
+
+### selectAgainstSuffering(); //ah fuck
+
+### verify im human
 
